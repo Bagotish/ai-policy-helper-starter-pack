@@ -10,7 +10,7 @@ A high-performance **Retrieval-Augmented Generation (RAG)** system built to quer
 - **Containerized**: Fully orchestrated using Docker for easy deployment.
 - **Real-time UX**: Next.js frontend with auto-scrolling chat and citation displays.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 14 (App Router), Tailwind CSS, Lucide React.
 - **Backend**: FastAPI (Python 3.10+), Uvicorn.
