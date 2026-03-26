@@ -31,7 +31,7 @@ Create a `.env` file in the root directory:
 
 ```bash
 # Backend
-LLM_PROVIDER=stub           # Use 'openrouter' for real AI responses
+LLM_PROVIDER=stub
 OPENROUTER_API_KEY=your_key_here
 LLM_MODEL=openai/gpt-4o-mini
 VECTOR_STORE=qdrant
